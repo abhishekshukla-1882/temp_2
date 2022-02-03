@@ -1,3 +1,6 @@
+h1 {
+  margin:0;
+}
 ul {
     list-style-type: none;
     margin: 0;
@@ -26,6 +29,9 @@ ul {
       background-color: rgb(216,216,216);
       width: auto;
       height: 70px;
+      font-size: 30px;
+      padding-left: 15px;
+      padding-bottom: 3px;
       /* margin-bottom: 20px; */
   }
   /* height ='100%'width='100%'  */
