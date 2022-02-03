@@ -54,7 +54,10 @@ ul {
      padding-right: 10px;
      text-align: justify;
  }
-
+.cont{
+  overflow: hidden;
+  display: flex;
+}
 /* #container5 {
     position: absolute;
     bottom: 0px;
